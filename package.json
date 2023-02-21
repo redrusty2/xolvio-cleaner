@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drone1/xolvio-cleaner.git"
+    "url": "git+https://github.com/redrusty2/xolvio-cleaner.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/drone1/xolvio-cleaner/issues"
+    "url": "https://github.com/redrusty2/xolvio-cleaner/issues"
   },
-  "homepage": "https://github.com/drone1/xolvio-cleaner#readme"
+  "homepage": "https://github.com/redrusty2/xolvio-cleaner#readme"
 }
